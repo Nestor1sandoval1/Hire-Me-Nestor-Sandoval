@@ -1,0 +1,75 @@
+img {
+    width: 220px;
+
+}
+
+.non {
+    font-size: 20px;
+    background-color: blue;
+    border: 5px solid black;
+}
+
+.green {
+    background-color: green;
+}
+
+.purple {
+    background-color: purple;
+}
+
+.blue {
+    background-color: blue;
+}
+
+h1 {
+    font-family: 'Sansita Swashed', cursive;
+}
+
+.grade {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.section- {
+    font-family: 'Oswald', sans-serif;
+}
+
+.colour {
+    font-family: 'Raleway', sans-serif;
+}
+
+.section30 {
+    font-family: 'Epilogue', sans-serif;
+}
+
+h3 {
+    background-color: white;
+    border: 5px solid black;
+    font-size:26px;
+}
+
+h1 {
+    background-color: orange;
+    border: 5px solid black;
+}
+
+
+body {
+    background-image: url(https://cms-assets.tutsplus.com/uploads/users/30/posts/31507/preview_image/pre.png);
+}
+
+.oui {
+    font-size: 20px;
+    background-color: red;
+    border: 5px solid black;
+}
+
+.inten {
+    font-size: 20px;
+    background-color: red;
+    border: 5px solid black;
+
+}
+
+img{
+border:10px solid black;
+}
